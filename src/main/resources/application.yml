@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+
+aws:
+  s3:
+    accesskey: AKIAW3Z4C3AFZSJ7CCWS
+    secretkey: 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
